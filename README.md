@@ -1,5 +1,5 @@
 <h1 align="center">
-	Infinite Shopping Mart
+	Infinite Shopping Mart (CONTINUED)
 </h1>
 
 <p align="center">
@@ -21,14 +21,14 @@
 	</a>
 </p>
 
-(Beware of fake discords, the only official discord is on this README)
+All Of The Embeds Above Are Official Infinite Store Items And Do Not Reflect This Repository!
 
 ## Usage
 
 The loader allows Infinite Store to always be kept up-to-date without re-downloading it every time you want to use it.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Infinite-Store/Infinite-Store/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bakersrule2020/Infinite-Store-Continued/main/main.lua"))()
 ```
 
 ## Contributions
@@ -38,4 +38,4 @@ You may also open a pull request to add your plugin URLs from a source repositor
 
 ## License
 
-Please read the [license](https://github.com/Infinite-Store/Infinite-Store/blob/main/LICENSE.md) before asking to use Infinite Store in your project.
+Please read the [license](https://github.com/bakersrule2020/Infinite-Store-Continued/blob/main/LICENSE.md) before asking to use Infinite Store in your project.
